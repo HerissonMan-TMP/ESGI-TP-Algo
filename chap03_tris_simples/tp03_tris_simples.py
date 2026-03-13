@@ -130,7 +130,7 @@ def benchmark():
 
 if __name__ == "__main__":
 
-    print("=== Test de stabilité ===")
+    print(" Test de stabilité ")
     stabilite()
-    print("=== Test de benchmark ===")
+    print(" Test de benchmark ")
     benchmark()
